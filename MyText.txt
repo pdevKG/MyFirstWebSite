@@ -3,3 +3,4 @@ Second test
 Third test
 Forth test GitHub
 Fort test GitHub extensions
+Forth test local
